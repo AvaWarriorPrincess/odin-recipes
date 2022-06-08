@@ -1,3 +1,12 @@
 body{
     background-color: #cdf8a5;
 }
+
+img{
+    height: auto;
+    width: 500px;
+}
+
+.body-content{
+    background-color: #ffffcc;
+}
